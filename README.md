@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Tryhardmonkey
-- 👀 I’m interested in web development
-- 🌱 I’m currently in my first year of uni and exploring the fields
+- 👀 I’m currently learning about web development
+- 🌱 I’m currently in my second year of uni and exploring the fields
 - 📫 How to reach me monilchourasiya@gmail.com
-- 😄 Pronouns: Duck/you
 - ⚡ Fun fact: strawberries aren't berries
 
 <!---
