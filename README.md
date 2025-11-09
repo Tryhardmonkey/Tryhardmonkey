@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tryhardmonkey
 - 👀 I’m currently learning about web development
-- 🌱 I’m currently in my second year of uni and exploring the fields
+- 🌱 I’m currently in my second year of uni and exploring different fields
 - 📫 How to reach me monilchourasiya@gmail.com
 - ⚡ Fun fact: strawberries aren't berries
 
