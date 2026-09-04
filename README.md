@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Tryhardmonkey
+- 👋 Hi, I’m Monil
 - 👀 I’m currently learning about web development
-- 🌱 I’m currently in my second year of uni and exploring different fields
+- 🌱 I’m currently in my third year of uni learning about development and productions and also working on personal projects
 - 📫 How to reach me monilchourasiya@gmail.com
 - ⚡ Fun fact: strawberries aren't berries
 
